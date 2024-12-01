@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\ashesi\ashesi\x64\Debug\ashesi.vcxproj.AssemblyReference.cache
+C:\Users\user\source\repos\ashesi\ashesi\x64\Debug\ashesi.MyForm.resources
+C:\Users\user\source\repos\ashesi\ashesi\x64\Debug\ashesi.vcxproj.GenerateResource.cache
+C:\Users\user\source\repos\ashesi\x64\Debug\mysql.data.dll
+C:\Users\user\source\repos\ashesi\ashesi\x64\Debug\ashesi.vcxproj.Up2Date
+C:\Users\user\source\repos\ashesi\ashesi\x64\Debug\ashesi.MDIForm.resources
